@@ -1,3 +1,8 @@
+/*!
+ * Font Awesome Free 7.2.0 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ * Copyright 2026 Fonticons, Inc.
+ */
 .fa-solid,
 .fa-regular,
 .fa-brands,
@@ -135,7 +140,6 @@
   margin-inline-start: var(--fa-li-margin, 2.5em);
   padding-inline-start: 0;
 }
-
 .fa-ul > li {
   position: relative;
 }
